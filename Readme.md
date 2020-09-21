@@ -65,6 +65,11 @@ This will interpolate the format string with the value of methods `name.lastName
 
 ### API Methods
 
+* Engineering
+  * Computer Science
+  * Electronics and Communication
+  * Instrumentation
+  * civil
 * address
   * zipCode
   * city
